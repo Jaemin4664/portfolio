@@ -26,7 +26,7 @@ section1MoveTimeline.to(section1Move, {
     scrollTrigger: {
         trigger: "#section1",
         start: "top+=100",
-        end: "bottom top",
+        end: "bottom top",//bottom top
         scrub: true,
         pin: true,
         anticipatePin: 1

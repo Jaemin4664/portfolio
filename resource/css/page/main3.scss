@@ -215,7 +215,8 @@ body.active {
           align-items: center;
           .imgbox {
             width: 800px;
-            height: 450px;
+            //height: 450px;
+            max-height: 450px;
             display: flex;
             justify-content: center;
             align-items: flex-start;

@@ -196,7 +196,7 @@ body.active {
 }
 .content .scrollWrapper .section4 .ref-box .ref-inner .imgbox {
   width: 800px;
-  height: 450px;
+  max-height: 450px;
   display: flex;
   justify-content: center;
   align-items: flex-start;
